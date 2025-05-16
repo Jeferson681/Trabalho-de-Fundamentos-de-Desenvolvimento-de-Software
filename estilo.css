@@ -1,0 +1,104 @@
+/* cor de fundo da pagina */
+body{
+    background-color: rgba(140, 162, 187, 0.39);
+    
+}
+.tudo{
+    max-width: 1500px;
+    margin-left: 15%;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;;
+
+}
+
+/* titulo */
+.titulo{
+    color: rgba(4, 44, 71, 0.918);
+    text-align: center;
+    font-size: 400%;
+}
+
+/*paragrafos*/
+.paragrafo{
+        
+        font-size: 20px;
+        text-align: justify;
+}
+
+/* Lista de hobbies */
+li{
+    
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.logo-netflix{
+    display: block;
+    margin-top: 5px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+.link-netflix{
+    color:blue;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+.link-netflix:hover{
+    text-decoration:overline;
+    color:rgb(245, 0, 0)
+
+}
+
+.mir4{
+    display: block;
+    margin-top: 5px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+.arpoador{
+    display: block;
+    margin-top: 5px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+
+
+    /*Lista de lugares para visitar*/
+table{border-radius: 10px;}
+
+.titulo-japao{
+    text-align: center;
+    
+}
+
+.texto-japao{
+    
+    font-size: 16px;
+    text-align: justify;
+}
+
+.titulo-estados-unidos{
+    text-align: center;
+    
+}
+
+.texto-estados-unidos{
+    
+    font-size: 16px;
+    text-align: justify;
+}
+
+.titulo-portugal{
+    text-align: center;
+    
+}
+
+.texto-portugal{
+    
+    font-size: 16px;
+    text-align: justify;
+}
+
