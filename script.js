@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const paragrafo = document.getElementById("mensagem");
 
     botao.addEventListener("click", function () {
-    paragrafo.innerText = "Seja bem vindo(a),Clique aqui 👇 para ver filmes e series.  ";
+    paragrafo.innerText = "Seja bem vindo(a). Neste link 👇 você pode acessar o site da Netflix.";
 
   });
 });
